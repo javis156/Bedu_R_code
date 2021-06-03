@@ -1,0 +1,2 @@
+auto <- mtcars
+head(auto)
